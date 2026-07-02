@@ -1,0 +1,17 @@
+# Python System Isolation
+.venv/
+__pycache__/
+*.pyc
+
+# Local Data and Model Framework Isolation
+**/storage/
+**/data/
+.env
+
+# Native Media Files (Prevents raw video/image leaks)
+*.mp4
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.png
