@@ -1,0 +1,82 @@
+[
+    {
+        "timestamp": "2026-07-04 20:30:07",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 15878,
+            "calculated_velocity_delta": 98.48857801796105
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:09",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 8403,
+            "calculated_velocity_delta": 58.69412236331676
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:10",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 18666,
+            "calculated_velocity_delta": 42.190046219457976
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:12",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 3688,
+            "calculated_velocity_delta": 99.24716620639605
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:14",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 25910,
+            "calculated_velocity_delta": 52.81098370604357
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:15",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 7264,
+            "calculated_velocity_delta": 25.96150997149434
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:17",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 20239,
+            "calculated_velocity_delta": 30.4138126514911
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:19",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 14690,
+            "calculated_velocity_delta": 71.30918594402827
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:20",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 17297,
+            "calculated_velocity_delta": 92.63368717696602
+        }
+    },
+    {
+        "timestamp": "2026-07-04 20:30:23",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 5345,
+            "calculated_velocity_delta": 13.038404810405298
+        }
+    }
+]
