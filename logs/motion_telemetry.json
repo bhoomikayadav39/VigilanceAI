@@ -78,5 +78,61 @@
             "spatial_area_pixels": 5345,
             "calculated_velocity_delta": 13.038404810405298
         }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:26",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 27329,
+            "calculated_velocity_delta": 11.180339887498949
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:28",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 36060,
+            "calculated_velocity_delta": 30.265491900843113
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:30",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 25403,
+            "calculated_velocity_delta": 68.06614430096654
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:31",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 36009,
+            "calculated_velocity_delta": 113.86395390991831
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:33",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 82598,
+            "calculated_velocity_delta": 136.0036764208968
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:34",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 19367,
+            "calculated_velocity_delta": 275.98007174431996
+        }
+    },
+    {
+        "timestamp": "2026-07-05 12:53:36",
+        "event_type": "KINETIC_ANOMALY",
+        "metrics": {
+            "spatial_area_pixels": 36719,
+            "calculated_velocity_delta": 11.180339887498949
+        }
     }
 ]
